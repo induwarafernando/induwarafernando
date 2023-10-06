@@ -16,10 +16,9 @@
     </a>
     <br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimy/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erandasblackburn@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itzluminara)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/N4PP33R)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/induwara-fernando-994396243/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:induwarafernando9@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__.induwara/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Fitzluminara)](https://twitter.com/itzluminara)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eternal.burn/)
 <div>
@@ -46,9 +45,9 @@
 
 <p align="center" >
 	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/induwara/induwara/output-3d-contrib/profile-custom-hacker.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/induwara/induwara/output-3d-contrib/profile-custom-hacker.svg" />
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/induwarafernando/induwarafernando/output-3d-contrib/profile-custom-hacker.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/induwarafernando/induwarafernando/output-3d-contrib/profile-custom-hacker.svg" />
 	</picture>
 </p>
 
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=induwara&theme=merko&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=induwara&show_icons=true&theme=merko&rank_icon=github&hide_border=true&locale=en" alt="readme-stats" /></```
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=induwara&theme=merko&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=induwarafernando&show_icons=true&theme=merko&rank_icon=github&hide_border=true&locale=en" alt="readme-stats" /></```
