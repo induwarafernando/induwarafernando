@@ -10,11 +10,15 @@
 </div>		
 </h2>
 
-
-<div align="center" style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=induwarafernando&theme=merko&hide_border=true&ring=16FF00&fire=16FF00" />
+<div align="center" style="display: flex; justify-content: space-around; align-items: stretch;">
+  <div style="border: 1px solid #000; flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true" style="height: 100%;" />
+  </div>
+  <div style="border: 1px solid #000; flex: 1;">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=induwarafernando&theme=merko&hide_border=true&ring=16FF00&fire=16FF00" style="height: 100%;" />
+  </div>
 </div>
+
 
 
 <div align="center">
