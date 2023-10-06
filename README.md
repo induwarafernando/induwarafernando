@@ -4,7 +4,9 @@
     <img src="spaceship.gif" width="100">
     <br>
     <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07f5f5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Induwara" alt="Typing SVG" />
+<div style="background-color: #001A00; display: inline-block;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00ff00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Induwara" alt="Typing SVG" />
+</div>
     </a>
 </h2>
 
