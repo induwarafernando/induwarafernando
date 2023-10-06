@@ -1,6 +1,6 @@
 # Profile
 
-![Profile Header](https://github.com/induwarafernando/induwarafernando/blob/main/Green%20Simple%20Manager%20LinkedIn%20Banner.mp4)
+![Profile Header](https://github.com/induwarafernando/induwarafernando/blob/main/Green%20Simple%20Manager%20LinkedIn%20Banner%20(1).gif)
 
 
 <h2 align="center">
