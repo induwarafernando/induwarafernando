@@ -23,12 +23,6 @@
 </a>
 
 
-<img height="180em" src="https://camo.githubusercontent.com/566d9005248b1166b87a28bad1d4a0fa6a71ae0aa4004db707b29e22a4ed9757/68747470733a2f2f6769746875622d726561646d652d73746174732d6361726f6c34322e76657263656c2e6170702f6170693f757365726e616d653d696e6475776172616665726e616e646f&amp;count_private=true&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;hide_title=true" alt="my github stats" data-canonical-src="https://github-readme-stats-carol42.vercel.app/api?username=induwarafernando&amp;count_private=true&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;hide_title=true" style="max-width: 100;">
-
-<img height="180em" src="https://camo.githubusercontent.com/527db46400266ef557d48b624b3432d8195a24098a953a8cf5caa9d64ce5e21e/68747470733a2f2f6769746875622d726561646d652d73746174732d6361726f6c34322e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d696e6475776172616665726e616e646f&amp;theme=midnight-purple&amp;hide_border=true&amp;layout=compact&amp;custom_title=Most+Used+Languages*&amp;langs_count=10" alt="most used languages" data-canonical-src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=induwarafernando&amp;theme=midnight-purple&amp;hide_border=true&amp;layout=compact&amp;custom_title=Most+Used+Languages*&amp;langs_count=10" style="max-width: 100;">
-
-<img height="180em" src="https://camo.githubusercontent.com/83ef43ba429bc64afb3b5de41b6c6c68e29b9d26aaf68a47d4d92628c2390081/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d696e6475776172616665726e616e646f&amp;theme=midnight-purple&amp;hide_border=true" alt="streak stats" data-canonical-src="https://streak-stats.demolab.com/?user=induwarafernando&amp;theme=midnight-purple&amp;hide_border=true" style="max-width: 100;">
-
 
 <div align="center">
     <a href="https://git.io/typing-svg">
