@@ -4,3 +4,6 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=induwarafernando)](https://git.io/streak-stats)
+
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+
