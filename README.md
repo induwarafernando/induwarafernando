@@ -49,5 +49,8 @@
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/induwarafernando/induwarafernando/output-3d-contrib/profile-custom-hacker.svg" />
 	</picture>
 </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=induwarafernando&theme=merko&hide_border=true)](https://git.io/streak-stats)  
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=induwarafernando&theme=merko&hide_border=true&ring=16FF00&fire=16FF00)](https://git.io/streak-stats)
+
+
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=induwarafernando&show_icons=true&theme=merko&rank_icon=github&hide_border=true&locale=en" alt="readme-stats" />
