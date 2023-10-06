@@ -3,6 +3,12 @@
 <h2 align="center">
     <img src="spaceship.gif" width="100">
     <br>
+
+ # Welcome to my profile! 🌟
+
+![Profile Header](https://raw.githubusercontent.com/induwarafernando/induwarafernando/main/assets/header.gif)
+
+
 <div>
     <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00ff00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Induwara" alt="Typing SVG" />
