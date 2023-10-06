@@ -4,11 +4,11 @@
     <img src="spaceship.gif" width="100">
     <br>
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABD200&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Induwara" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000E6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Induwara" alt="Typing SVG" />
     </a>
 </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true)
 
 <div align="center">
     <a href="https://git.io/typing-svg">
