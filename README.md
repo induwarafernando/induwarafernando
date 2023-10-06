@@ -17,11 +17,6 @@
 </div>
 
 
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true)
-
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=My+Socials" alt="Typing SVG" />
