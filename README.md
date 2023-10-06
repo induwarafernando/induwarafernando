@@ -8,7 +8,7 @@
     </a>
 </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true)]
 
 <div align="center">
     <a href="https://git.io/typing-svg">
