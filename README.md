@@ -3,11 +3,11 @@
 <h2 align="center">
     <img src="spaceship.gif" width="100">
     <br>
+<div>
     <a href="https://git.io/typing-svg">
-<div style="background-color: #001A00; display: inline-block;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00ff00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Induwara" alt="Typing SVG" />
-</div>
     </a>
+</div>		
 </h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true)
