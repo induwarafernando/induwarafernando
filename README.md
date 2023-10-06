@@ -24,6 +24,7 @@
 <img height="180em" src="https://camo.githubusercontent.com/83ef43ba429bc64afb3b5de41b6c6c68e29b9d26aaf68a47d4d92628c2390081/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723dinduwarafernando&amp;theme=midnight-purple&amp;hide_border=true" alt="streak stats" data-canonical-src="https://streak-stats.demolab.com/?user=induwarafernando&amp;theme=midnight-purple&amp;hide_border=true" style="max-width: 100;">
 </a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=induwarafernando&theme=midnight-purple)](https://git.io/streak-stats)
 
 
 <div align="center">
