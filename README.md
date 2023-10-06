@@ -1,6 +1,6 @@
 # Profile
 
-![Profile Header](https://www.canva.com/design/DAFwf1rzFes/2nfAnuK4HiDk9nYcEVnybw/watch?utm_content=DAFwf1rzFes&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![Profile Header](https://github.com/induwarafernando/induwarafernando/blob/main/Green%20Simple%20Manager%20LinkedIn%20Banner.mp4)
 
 
 <h2 align="center">
