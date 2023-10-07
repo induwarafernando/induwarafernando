@@ -15,6 +15,7 @@ jobs:
       - name: Generate 3D Contributions Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           username: induwarafernando
 
       - name: Commit and Push Changes
