@@ -11,6 +11,9 @@
 </div>		
 </h2>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <a href="https://github.com/induwarafernando/">
 <img height="180em" src="https://camo.githubusercontent.com/566d9005248b1166b87a28bad1d4a0fa6a71ae0aa4004db707b29e22a4ed9757/68747470733a2f2f6769746875622d726561646d652d73746174732d6361726f6c34322e76657263656c2e6170702f6170693f757365726e616d653d4361726f6c343226636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d6d69646e696768742d707572706c6526686964655f626f726465723d7472756526686964655f7469746c653d74727565" alt="my github stats" data-canonical-src="https://github-readme-stats-induwarafernando.vercel.app/api?username=induwarafernando&amp;count_private=true&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;hide_title=true" style="max-width: 100;">
 </a>
