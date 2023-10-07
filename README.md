@@ -14,21 +14,21 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/induwarafernando/">
+<a href="https://github.com/induwarafernando">
 <img height="180em" src="https://camo.githubusercontent.com/566d9005248b1166b87a28bad1d4a0fa6a71ae0aa4004db707b29e22a4ed9757/68747470733a2f2f6769746875622d726561646d652d73746174732d6361726f6c34322e76657263656c2e6170702f6170693f757365726e616d653d4361726f6c343226636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d6d69646e696768742d707572706c6526686964655f626f726465723d7472756526686964655f7469746c653d74727565" alt="my github stats" data-canonical-src="https://github-readme-stats-induwarafernando.vercel.app/api?username=induwarafernando&amp;count_private=true&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;hide_title=true" style="max-width: 100;">
 </a>
 
 
-<a href="https://github.com/induwarafernando/">
-<img height="180em" src="https://camo.githubusercontent.com/527db46400266ef557d48b624b3432d8195a24098a953a8cf5caa9d64ce5e21e/68747470733a2f2f6769746875622d726561646d652d73746174732d6361726f6c34322e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4361726f6c3432267468656d653d6d69646e696768742d707572706c6526686964655f626f726465723d74727565266c61796f75743d636f6d7061637426637573746f6d5f7469746c653d4d6f73742b557365642b4c616e6775616765732a266c616e67735f636f756e743d3130" alt="most used languages" data-canonical-src="https://github-readme-stats-induwarafernando.vercel.app/api/top-langs/?username=induwarafernando&amp;theme=midnight-purple&amp;hide_border=true&amp;layout=compact&amp;custom_title=Most+Used+Languages*&amp;langs_count=10" style="max-width: 100;">
+<a href="https://github.com/induwarafernando">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" style="max-width: 100%;">
 </a>
 
 
-
+<a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=induwarafernando&theme=midnight-purple)](https://git.io/streak-stats)
 
-
+</a>
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=My+Socials" alt="Typing SVG" />
