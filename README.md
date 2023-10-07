@@ -19,7 +19,7 @@
 
 
 <a href="https://github.com/induwarafernando">
-<img height="180em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10";">
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10";">
 </a>
 
 
