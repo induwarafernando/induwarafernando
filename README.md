@@ -28,7 +28,7 @@
 | ------------- | ------------- |
 
 <div style="width: "100%"">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando" alt="Top Languages" />
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando&langs_count=5&theme=tokyonight)]()
 </div>
 
 
