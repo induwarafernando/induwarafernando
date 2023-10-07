@@ -11,6 +11,11 @@
 </div>		
 </h2>
 
+<div align="center">
+<a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=My+Contributions" alt="Typing SVG" />
+</a>
+</div>
 
 
 <a href="https://github.com/induwarafernando">
@@ -27,11 +32,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=induwarafernando&theme=midnight-purple)](https://git.io/streak-stats)
 </a>
-<div align="center">
-<a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=My+Contributions" alt="Typing SVG" />
-</a>
-</div>
 
 
 <br>
