@@ -17,35 +17,6 @@
 </a>
 </div>
 
-
-<a href="https://github.com/induwarafernando">
-<img height="180em" src="https://camo.githubusercontent.com/566d9005248b1166b87a28bad1d4a0fa6a71ae0aa4004db707b29e22a4ed9757/68747470733a2f2f6769746875622d726561646d652d73746174732d6361726f6c34322e76657263656c2e6170702f6170693f757365726e616d653d4361726f6c343226636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d6d69646e696768742d707572706c6526686964655f626f726465723d7472756526686964655f7469746c653d74727565" alt="my github stats" data-canonical-src="https://github-readme-stats-induwarafernando.vercel.app/api?username=induwarafernando&amp;count_private=true&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;hide_title=true" style="max-width: 100;">
-</a>
-
-
-<a href="https://github.com/induwarafernando">
-<img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10";">
-</a>
-
-
-<a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=induwarafernando&theme=midnight-purple)](https://git.io/streak-stats)
-</a>
-
-
-<br>
-
-
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/induwarafernando/induwarafernando/output-3d-contrib/profile-custom-hacker.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/induwarafernando/induwarafernando/output-3d-contrib/profile-custom-hacker.svg" />
-	</picture>
-</p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=induwarafernando&theme=merko&hide_border=true&ring=16FF00&fire=16FF00)](https://git.io/streak-stats)
-
-
 <div align="center">
 <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=My+Socials" 
