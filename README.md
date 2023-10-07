@@ -17,6 +17,10 @@
     </a>
 </div>
 
+
+![Contributions](https://github.com/induwarafernando>/github/workflows/graphs/contributors)
+
+
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/induwarafernando/induwarafernando/output-3d-contrib/profile-custom-hacker.svg" />
