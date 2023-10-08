@@ -1,6 +1,6 @@
 # Profile
 
-![Profile Header](https://github.com/induwarafernando/induwarafernando/blob/main/git%20header.gif)
+![Profile Header](https://github.com/induwarafernando/induwarafernando/blob/main/Green%20Simple%20Manager%20LinkedIn%20Banner%20(1).gif)
 
 
 <h2 align="center">
@@ -18,7 +18,7 @@
 </div>
 
 
-![Contributions](https://github.com/induwarafernando/induwarafernando/blob/main/profile-3d-contrib/profile-night-green.svg)
+![Contributions](https://github.com/induwarafernando/induwarafernando/blob/main/profile-3d-contrib/profile-night-view.svg)
 
 
 <p align="center" >
