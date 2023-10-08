@@ -18,7 +18,7 @@
 </div>
 
 
-![Contributions](https://github.com/induwarafernando/induwarafernando/blob/main/profile-3d-contrib/profile-night-view.svg)
+![Contributions](https://github.com/induwarafernando/induwarafernando/blob/main/profile-3d-contrib/profile-night-green.svg)
 
 
 <p align="center" >
