@@ -1,6 +1,6 @@
 # Profile
 
-![Profile Header](git header.gif)
+![Profile Header](https://github.com/induwarafernando/induwarafernando/blob/main/git%20header.gif)
 
 
 <h2 align="center">
