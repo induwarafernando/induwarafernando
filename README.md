@@ -37,7 +37,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=00FF00&center=true&vCenter=true&repeat=false&width=435&lines=My+Socials" 
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=DD9AFF&center=true&vCenter=true&repeat=false&width=435&lines=My+Socials" 
 alt="Typing SVG" />
 </a>
     
@@ -51,7 +51,7 @@ alt="Typing SVG" />
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=ABD200&center=true&vCenter=true&repeat=false&width=435&lines=Languages+and+Tools" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=DD9AFF&center=true&vCenter=true&repeat=false&width=435&lines=Languages+and+Tools" alt="Typing SVG" />
     </a>
     <br>
     <a href="https://skillicons.dev">
