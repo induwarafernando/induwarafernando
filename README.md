@@ -31,9 +31,11 @@
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=induwarafernando&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=induwarafernando&show_icons=true&theme=midnight-purple&rank_icon=github&hide_border=true&locale=en" alt="readme-stats" /></p> |
 | ------------- | ------------- |
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando&langs_count=5&theme=tokyonight)]()
+<div align="center">
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=induwarafernando&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 <div align="center">
 <a href="https://git.io/typing-svg">
