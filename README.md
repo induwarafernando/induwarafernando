@@ -57,7 +57,7 @@ alt="Typing SVG" />
     </a>
     <br>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,laravel,tailwind,sqlite,express,mongodb,react,nodejs,mysql,flutter,dart,py,cs,html,css,linux,git" />
+        <img src="https://skillicons.dev/icons?i=js,laravel,tailwind,sqlite,express,mongodb,react,nodejs,mysql,flutter,dart,py,cs,html,css,linux,git,postman,github,java,figma,notion" />
         <br>
         <img src="https://skillicons.dev/icons?i=androidstudio,vscode,phpstorm" />
     </a>
