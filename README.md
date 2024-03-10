@@ -17,7 +17,6 @@
     </a>
 </div>
 
-
 ![Contributions](https://github.com/induwarafernando/induwarafernando/blob/main/profile-3d-contrib/profile-night-view.svg)
 
 
@@ -57,9 +56,15 @@ alt="Typing SVG" />
     </a>
     <br>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,laravel,tailwind,sqlite,express,mongodb,react,nodejs,mysql,flutter,dart,py,cs,html,css,linux,git,postman,github,java,figma,notion" />
+	<img src="https://skillicons.dev/icons?i=express,mongodb,react,nodejs,postman" />    
         <br>
-        <img src="https://skillicons.dev/icons?i=androidstudio,vscode,phpstorm" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,sqlite,mysql,py,cs,linux,git,github,java,figma,notion" />
+	<br>
+	<img src="https://skillicons.dev/icons?i=flutter,dart" />
+	<br>
+        <img src="https://skillicons.dev/icons?i=laravel,tailwind" />
+	<br>
+        <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,phpstorm" />
     </a>
 </p>
 <hr>
