@@ -36,6 +36,9 @@
 
 </div>
 
+![Induwara Fernando's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=induwarafernando&theme=merko&area=true&hide_border=true)
+
+
 <div align="center">
 <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=DD9AFF&center=true&vCenter=true&repeat=false&width=435&lines=My+Socials" 
