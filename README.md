@@ -36,8 +36,8 @@
 
 </div>
 
-![Induwara Fernando's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=induwarafernando&theme=nord&area=true&hide_border=true)
 
+![Induwara Fernando's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=induwarafernando&theme=nord&area=true&hide_border=true)
 
 <div align="center">
 <a href="https://git.io/typing-svg">
