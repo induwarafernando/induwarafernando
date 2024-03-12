@@ -40,7 +40,7 @@
 
 ![Induwara Fernando's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=induwarafernando&theme=rogue&area=true&hide_border=true)
 
-![Induwara Fernando's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=induwarafernando&theme=blue-revamp&area=true&hide_border=true)
+![Induwara Fernando's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=induwarafernando&theme=cobolt&area=true&hide_border=true)
 
 
 <div align="center">
